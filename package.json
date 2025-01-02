@@ -121,7 +121,7 @@
     },
     "dependencies": {
         "@mermaid-js/mermaid-cli": "^10.6.1",
-        "@prisma/generator-helper": "^4.0.0 || ^5.0.0",
+        "@prisma/generator-helper": "> 4 < 7",
         "dotenv": "^16.3.1"
     },
     "peerDependencies": {
